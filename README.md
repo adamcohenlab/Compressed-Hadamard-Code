@@ -1,5 +1,5 @@
 # Compressed-Hadamard-Code
-MATLAB code for Compressed Hadamard Imaging for optically sectioned high speed neuronal activity recordings.
+Compressed Hadamard Imaging MATLAB code for optically sectioned high speed neuronal activity recordings.
 
 # Supplementary Software and Data
 Included in this repository are MATLAB programs and experimental datasets to describe implementation of all-optical electrophysiology recordings using Compressed Hadamard Imaging, a high temporal resolution version of Hadamard Microscopy.
