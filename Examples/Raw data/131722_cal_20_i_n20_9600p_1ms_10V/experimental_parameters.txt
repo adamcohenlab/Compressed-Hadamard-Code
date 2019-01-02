@@ -1,0 +1,12 @@
+Horizontal pixel:_____________	80
+Vertical pixel:_______________	44
+
+
+Stage position X Y Z:_______ 	60.500000 -1137.500000 -74.700000
+Filter wheel position:_______ ET665Ip
+488nm optical density:_______ OD2.0
+
+Binning: __________ 1X1
+640nm voltage: __________ 3.00E+0
+y offset:_____________	936
+x offset:_____________	1000
